@@ -27,8 +27,10 @@ Download the latest version of Anaconda here: https://www.anaconda.com/products/
 Anaconda contains Python 3.7 and the data science-centric IDE JupyterLab.<br>
 Load EmployeeChurnNotebook.ipynb in JupyterLab and run all cells.<br>
 This will create the following files:
-- analytical_base_table_v1.csv (intermediate modelling dataset) and analytical_base_table_v2.csv (final modelling dataset).
-- model_v1.pkl (intermediate trained model) and model_v2.pkl (final trained model).
+1) analytical_base_table_v1.csv
+2) model_v1.pkl
+3) analytical_base_table_v2.csv (final ABT for modelling).
+4) model_v2.pkl (final trained model file).
 
 ## Results <a name="results"></a>
 
