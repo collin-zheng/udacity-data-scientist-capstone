@@ -9,7 +9,7 @@
 
 ## Motivation <a name="libraries"></a>
 
-- Working in banking, preventing customer churn is an important goal. Flipping this on its head, we're going to investigate churn from the perspective of employees in a hypothetical mid-sized company of 10,000+ employees. This project is completed as part of the Udacity Data Scientist for Enterprise Nanodegree. The datasets come from elitedatascience.com.
+Working in banking, preventing customer churn is an important goal. Flipping this on its head, we're going to investigate churn from the perspective of employees in a hypothetical mid-sized company of 10,000+ employees. This project is completed as part of the Udacity Data Scientist for Enterprise Nanodegree. The dataset comes from Elitedatascience.com, which I downloaded in 2018.
 
 There are two objectives of this project:
 1. To train a binary classification model that predicts, based on an employee's happiness, performance, workload and experience, whether they will leave the company.<br>
