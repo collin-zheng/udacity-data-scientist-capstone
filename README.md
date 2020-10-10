@@ -21,7 +21,7 @@ There are two objectives of this project:
 1) EmployeeChurnNotebook.ipynb
 2) employee_data.csv
 
-**Software required to run these files**
+**Software required to run these files:**<br>
 Download the latest version of Anaconda here: https://www.anaconda.com/products/individual<br>
 Anaconda contains Python 3.7 and the data science-centric IDE JupyterLab.<br>
 Load EmployeeChurnNotebook.ipynb in JupyterLab and run all cells.<br>
