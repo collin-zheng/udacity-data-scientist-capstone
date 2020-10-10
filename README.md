@@ -12,7 +12,8 @@
 - Working in banking, preventing customer churn is an important goal. Flipping this on its head, we're going to investigate churn from the perspective of employees in a hypothetical mid-sized company of 10,000+ employees. This project is completed as part of the Udacity Data Scientist for Enterprise Nanodegree. The datasets come from elitedatascience.com.
 
 There are two objectives of this project:
-1. To train a binary classification model that predicts, based on an employee's happiness, performance, workload and experience, whether they will leave the company. The deliverable will be a trained .pkl file "model_v2.pkl".
+1. To train a binary classification model that predicts, based on an employee's happiness, performance, workload and experience, whether they will leave the company.<br>
+The deliverable will be a trained .pkl file **model_v2.pkl**.
 2. Rank the features based on importance of this winning model.
 
 ## Requirements, files and data <a name="requirements"></a>
