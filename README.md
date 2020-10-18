@@ -40,4 +40,4 @@ The full feature importance list can be found in the .ipynb notebook and in the 
 Moreover, the notebook and blog post describe a number of interesting insights from the exploratory data analysis on the dataset.
 
 ## Blog <a name="blog"></a>
-Here's my [blog](https://medium.com/@col_jung/will-your-employee-leave-a-machine-learning-model-8484c2a6663e "blog") post about this project.
+Here's my [blog](https://col-jung.medium.com/udacity-data-scientist-nanodegree-capstone-df92cc2ec60 "blog") post about this project.
